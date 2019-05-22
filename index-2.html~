@@ -98,11 +98,9 @@
 				<div class="leftpart_bottom">
 					<div class="social_wrap">
 						<ul>
-							<!--<li><a href="#"><i class="xcon-facebook"></i></a></li>-->
 							<li><a href="https://github.com/hariniHapuarachchi/"><i class="fab fa-github"></i></a></li>
 							<li><a href="https://www.linkedin.com/in/harini-hapuarachchi-862a84179/"><i class="xcon-linkedin"></i></a></li>
 							<li><a href="https://stackoverflow.com/users/story/10973781"><i class="fab fa-stack-overflow"></i></a></li>
-							<!--<li><a href="#"><i class="xcon-behance"></i></a></li>-->
 						</ul>
 					</div>
 				</div>
